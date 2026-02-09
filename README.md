@@ -27,7 +27,7 @@ R, tidyverse, ggplot2, haven
 - `time_use_analysis.R` - Complete analysis pipeline (500+ lines)
 - 
 - ## Files
-- `Time_Use_Analysis_Coding_Sample.R` - Complete analysis code
+- `Coding Sample.r` - Complete analysis code
 - `Time_Use_Analysis_Report.pdf` - Analysis findings and visualizations
 
 ## Author
